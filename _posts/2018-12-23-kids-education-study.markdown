@@ -4,7 +4,7 @@ title: PBL(Project-based Learning)研究（一）
 date: 2018-12-23 23:00:00 +0800
 description: Study PBL. # Add post description (optional)
 img: software.jpg # Add image post (optional)
-tags: [Productivity, Software] # add tag
+tags: [Thinking, Kids Education] # add tag
 ---
 
 ## PBL(Project-based Learning)研究之一
@@ -27,8 +27,6 @@ tags: [Productivity, Software] # add tag
 
 > Buck Institute for Education是致力于推广项目式教学的非营利机构，其主编和高级研究员John Larmer和John Mergendoller经过多年研究，将项目式教学的成功要素总结为由三个同心环组成的“黄金标准”，其中最核心的就是确定学习目标。"
 
-
-
 这个学习目标是不好确定。既要严谨又要适合学生的阶段。还好我不是做教育专业的，不用太烦心这个问题。不过我一直在思考一些适合家庭的PBL项目。
 
 **2. Active learning**
@@ -36,8 +34,6 @@ tags: [Productivity, Software] # add tag
 再来说说**active learning**。这个是Teach和Learn的转变。PBL中最为重要的精神之一就是**自主探索**。对于很小的学生来说，很多学生是难以做到主动学习的。但是他们却有非常强烈的自然的好奇心。所以如果能调动他们的好奇心，他们将很乐意将项目进行下去也就达到了自主学习的目的。如何才能调动他们的好奇心呢？
 
 > 早在采用Reggio Emilia方法（瑞吉欧教育法）的幼儿园，项目式教学方法已经成功实施。Reggio Emiglia是一个基于项目的学习方法，开始于意大利北部。这是一种以儿童为中心的方法，鼓励孩子们自然的好奇心，并仔细记录他们在项目中的发现。教师指导学生，并在学习期间为学生提供资源，特别是鼓励学龄前学生探索，调查和体验。这是发展学生对学习的热爱和培养他们自然的好奇心的跳跃点。
-
-
 
 就职于美国ASCD（Association for Supervision and Curriculum Development，国家教育和课程研究院）的一位教育咨询师这样说：“孩子刚开始接触PBL时，不要太疯狂”。作为家长或者老师，当你准备开始指导孩子PBL时，
 
@@ -50,8 +46,6 @@ tags: [Productivity, Software] # add tag
 4. Don’t forget the presentation. 不要忘了最后一定要做分享。带着最后要给大家分享的这个目标，孩子在调查过程中自然会多问为什么，多作思考，因为会担心做分享时会被听众的问题问倒哦。
 
 国外的研究认为，高水准的PBL项目立意务求**真实(Authentic problems)**，能帮助学生从学科学习和社群生活两个层面与现实世界建立联系，同时对学生个人而言也是有意义的。我还想到了，一直都提倡的寓教于乐。对于小朋友来说，当他看到真实的有趣的结果时，他就会被眼前的景象吸引住。因此我的理解是**真实的有趣的项目**更能调动学生的好奇心。
-
-
 
 Robert Wang
 2018.12.23
