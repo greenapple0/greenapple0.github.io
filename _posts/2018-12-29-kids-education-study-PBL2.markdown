@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PBL(Project-based Learning)研究（一）
+title: PBL(Project-based Learning)研究（二）
 date: 2018-12-29 23:00:00 +0800
 description: Study PBL. # Add post description (optional)
 img: software.jpg # Add image post (optional)
@@ -129,9 +129,3 @@ PBL实施的几个阶段：
 Robert Wang
 
 2018.12.29
-
-
-
-
-
-
